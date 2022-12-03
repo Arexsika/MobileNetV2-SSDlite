@@ -1,0 +1,2 @@
+mcdonalds 141 58 186 104
+mcdonalds 354 97 374 118

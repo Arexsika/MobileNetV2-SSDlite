@@ -1,0 +1,1620 @@
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000000.jpg 207,122,439,329,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000001.jpg 404,10,627,161,0 466,378,507,408,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000002.jpg 194,87,387,218,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000003.jpg 276,127,340,174,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000004.jpg 1241,1705,2134,2466,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000006.jpg 26,166,159,250,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000007.jpg 67,339,182,417,0 327,52,515,236,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000008.jpg 215,73,243,108,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000009-1.jpg 129,7,205,123,0 516,37,572,133,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000011.jpg 342,136,385,199,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000013.jpg 39,96,179,216,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000015.jpg 488,48,826,436,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000016.jpg 195,130,251,171,0 657,136,706,184,0 804,308,828,335,0 688,462,713,480,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000017.jpg 310,92,395,166,0 264,237,294,261,0 93,143,115,159,0 413,254,429,273,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000018.jpg 272,45,390,127,0 521,340,590,387,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000019.jpg 84,113,111,148,0 679,100,715,144,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000020.jpg 159,599,202,659,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000021.jpg 344,115,433,201,0 689,316,712,333,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000022.jpg 193,231,245,284,0 391,108,448,163,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000025.jpg 294,21,398,93,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000026.jpg 341,134,603,402,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000028.jpg 333,118,503,255,0 773,280,866,366,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000029.jpg 258,165,311,200,0 354,61,436,120,0 381,36,414,59,0 210,111,428,145,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000030.jpg 206,184,295,322,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000031.jpg 654,40,845,158,0 416,546,472,588,0 564,429,689,505,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000032.jpg 301,47,546,317,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000033.jpg 516,107,577,148,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000034.jpg 489,171,547,227,0 186,314,341,459,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000035.jpg 16,26,520,340,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000036.jpg 475,618,757,851,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000038.jpg 268,153,434,283,0 748,426,800,488,0 373,627,422,665,0 858,630,875,654,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000039.jpg 166,120,388,269,0 898,452,975,601,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000040.jpg 527,19,623,113,0 593,262,623,293,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000041.jpg 52,51,102,101,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000042.jpg 227,46,360,114,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000043.jpg 481,50,786,147,0 578,361,710,440,0 1166,454,1186,474,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000044.jpg 245,181,360,292,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000046.jpg 1,192,92,257,0 310,118,347,144,0 594,189,640,249,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000047.jpg 59,219,243,339,0 509,184,560,221,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000050.jpg 427,78,510,166,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000051.jpg 305,11,434,98,0 581,161,606,193,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000052.jpg 647,148,759,230,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000054.jpg 303,14,693,276,0 998,243,1032,346,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000055.jpg 335,15,407,82,0 524,233,591,298,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000056.jpg 128,158,280,254,0 429,106,506,157,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000057.jpg 398,258,479,309,0 587,56,636,91,0 544,94,670,184,0 324,171,659,224,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000058.jpg 483,113,608,187,0 900,308,947,340,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000059.jpg 179,145,269,245,0 468,303,499,351,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000060.jpg 150,24,219,70,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000061.jpg 324,389,530,534,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000062.jpg 325,46,594,304,0 710,130,768,216,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000064.jpg 194,67,259,121,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000066.jpg 506,170,651,280,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000068.jpg 172,8,379,144,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000071.jpg 621,79,689,200,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000072.jpg 87,269,173,346,0 277,198,322,231,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000073.jpg 655,223,889,381,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000074.jpg 250,141,341,226,0 751,139,873,223,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000075.jpg 323,71,439,149,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000076.jpg 106,16,143,52,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000077.jpg 134,148,177,217,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000078.jpg 193,302,347,447,0 493,160,554,217,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000079.jpg 335,22,387,86,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000083.jpg 108,8,141,38,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000084.jpg 305,242,426,361,0 628,423,662,483,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000088.jpg 357,318,417,358,0 815,140,882,203,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000091.jpg 196,353,270,424,0 390,12,433,55,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000096.jpg 26,128,69,167,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000097.jpg 321,29,382,90,0 434,158,453,193,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000098.jpg 206,60,254,100,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000099.jpg 183,78,212,104,0 545,318,660,399,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000101.jpg 547,65,675,163,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000103.jpg 573,72,637,131,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000104.jpg 187,162,234,235,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000105.jpg 344,271,442,363,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000106.jpg 207,76,348,165,0 586,239,649,287,0 882,145,946,204,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000107.jpg 382,72,470,136,0 509,300,541,322,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000110.jpg 461,167,535,217,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000112.jpg 119,93,196,145,0 401,226,512,311,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000113.jpg 119,26,196,79,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000114.jpg 76,372,216,470,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000115.jpg 494,147,589,214,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000116.jpg 18,127,97,178,0 465,110,547,169,0 231,199,344,278,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000118.jpg 285,51,405,176,0 710,323,753,354,0 163,346,190,376,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000119.jpg 181,134,232,179,0 424,175,551,280,0 749,178,773,210,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000120.jpg 94,144,134,202,0 433,133,472,192,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000130.jpg 189,75,273,143,0 411,144,429,190,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas000131.jpg 131,14,241,150,0 215,229,248,282,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/adidas1.jpg 277,120,431,248,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000003.jpg 170,132,263,193,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000004.jpg 136,1,294,123,1 139,272,206,314,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000005.jpg 103,118,165,152,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000006.jpg 169,106,255,173,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000010.jpg 562,125,620,156,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000012.jpg 223,169,328,230,1 513,270,576,309,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000015.jpg 1,156,508,560,1 966,387,985,441,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000018.jpg 533,80,811,218,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000019.jpg 163,161,202,182,1 412,200,486,230,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000024.jpg 34,13,83,59,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000027.jpg 713,182,911,293,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000029.jpg 430,152,497,189,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000031.jpg 378,15,544,111,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000033.jpg 311,24,429,132,1 200,313,233,341,1 811,224,828,257,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000035.jpg 55,205,307,356,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000038.jpg 309,74,438,148,1 967,230,1098,314,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000039.jpg 35,113,122,164,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000040.jpg 300,102,401,173,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000041.jpg 437,205,534,266,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000042.jpg 484,265,654,367,1 852,309,934,362,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000043.jpg 480,90,696,234,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000044.jpg 86,43,162,120,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000045.jpg 534,238,819,488,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000046.jpg 88,265,151,321,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000047.jpg 202,185,277,224,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000049.jpg 277,119,332,143,1 418,257,531,309,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000050.jpg 736,514,873,660,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000051.jpg 347,58,498,149,1 851,267,908,308,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000052.jpg 243,298,303,329,1 447,45,526,88,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000053.jpg 363,102,502,175,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000055.jpg 206,322,322,386,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000056.jpg 207,103,313,165,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000057.jpg 1,19,269,224,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000059.jpg 404,384,864,582,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000063.jpg 239,91,400,165,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000065.jpg 397,377,599,485,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000067.jpg 73,16,221,86,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000068.jpg 9,282,318,439,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000070.jpg 26,211,131,263,1 622,423,682,456,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000071.jpg 170,35,320,143,1 68,294,106,315,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000072.jpg 193,372,279,417,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000073.jpg 464,156,617,232,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000074.jpg 779,198,854,253,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000075.jpg 945,130,1001,181,1 925,353,963,379,1 551,302,611,340,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000080.jpg 107,9,228,70,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000081.jpg 499,499,655,589,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000082.jpg 218,97,251,117,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000085.jpg 451,185,517,228,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000086.jpg 186,111,220,135,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000089.jpg 221,90,280,123,1 496,207,546,234,1 12,272,33,288,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000091.jpg 17,313,318,494,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000093.jpg 184,119,346,238,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000094.jpg 351,89,503,165,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000096.jpg 295,19,416,100,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000097.jpg 66,207,116,252,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000099.jpg 150,66,313,174,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000100.jpg 246,55,358,189,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000103.jpg 1,251,217,420,1 752,239,807,331,1 882,128,913,192,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000104.jpg 45,164,189,245,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000105.jpg 69,51,157,102,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000106.jpg 279,186,446,283,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000108.jpg 879,345,1080,500,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000109.jpg 843,224,897,313,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000111.jpg 486,217,713,363,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000112.jpg 290,313,520,443,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000114.jpg 727,190,935,347,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000118.jpg 205,100,312,160,1 243,339,285,364,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000119.jpg 215,92,287,121,1 219,263,252,282,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000120.jpg 385,23,750,278,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000122.jpg 81,86,343,185,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000125.jpg 162,25,338,118,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000127.jpg 292,103,486,222,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000128.jpg 387,172,584,273,1 427,365,479,394,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/anta000157.jpg 576,439,707,526,1 879,637,994,691,1
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000000.jpg 306,221,492,417,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000001.jpg 336,168,395,243,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000002.jpg 277,201,301,253,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000003.jpg 265,149,325,221,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000005.jpg 251,186,295,241,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000006.jpg 412,332,509,474,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000007.jpg 457,266,518,338,2 1425,271,1484,344,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000009.jpg 282,65,349,149,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000010.jpg 351,10,456,137,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000011.jpg 698,213,1303,893,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000012.jpg 197,125,222,163,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000013.jpg 462,18,543,115,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000014.jpg 239,89,260,116,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000015.jpg 724,315,769,377,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000018.jpg 292,108,396,233,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000020.jpg 451,210,532,316,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000021.jpg 689,398,735,457,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000022.jpg 380,35,479,157,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000023.jpg 527,413,670,575,2 540,111,646,219,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000024.jpg 1599,372,1778,680,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000025.jpg 234,135,275,183,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000026.jpg 250,127,299,308,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000029.jpg 419,131,492,236,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000030.jpg 402,287,434,328,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000031.jpg 384,140,407,183,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000032.jpg 237,116,249,138,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000033.jpg 510,160,549,205,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000034.jpg 116,95,202,200,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000035.jpg 323,3,385,78,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000036.jpg 192,175,320,375,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000037.jpg 265,148,324,219,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000038.jpg 342,133,386,226,2 556,270,571,295,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000039.jpg 744,18,883,121,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000040.jpg 284,32,357,121,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000041.jpg 346,145,387,197,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000042.jpg 351,119,430,211,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000043.jpg 343,171,365,214,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000044.jpg 272,123,319,185,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000045.jpg 234,86,388,263,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000046.jpg 362,206,382,249,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000047.jpg 301,93,357,163,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000048.jpg 13,390,79,453,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000052.jpg 368,128,392,171,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000053.jpg 274,160,309,207,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000054.jpg 426,19,641,278,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000055.jpg 263,21,343,106,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000056.jpg 203,123,248,180,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000058.jpg 443,1,582,139,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000060.jpg 250,235,273,276,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000061.jpg 308,123,380,206,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000062.jpg 297,183,330,225,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000063.jpg 605,360,660,429,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000064.jpg 581,1784,659,2007,2 1109,1825,1235,2027,2 966,497,1041,605,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000065.jpg 295,131,347,152,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000066.jpg 297,140,335,185,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000067.jpg 187,131,274,241,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000068.jpg 666,343,728,421,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000070.jpg 1446,637,1526,826,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000071.jpg 326,206,366,250,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000072.jpg 398,111,439,165,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000076.jpg 323,107,416,221,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000078.jpg 167,340,276,557,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000079.jpg 625,50,747,192,2 669,373,734,453,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000082.jpg 618,30,770,204,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000083.jpg 220,136,246,170,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000084.jpg 430,60,553,183,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000085.jpg 297,167,338,228,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000086.jpg 132,41,159,73,2 428,25,463,69,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000087.jpg 468,18,574,293,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000088.jpg 39,164,70,195,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000089.jpg 1155,864,1208,949,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000090.jpg 440,22,552,163,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000091.jpg 306,78,334,112,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000092.jpg 115,173,293,362,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000093.jpg 114,77,132,105,2 335,13,370,69,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000094.jpg 532,330,668,487,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000095.jpg 232,154,275,201,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000096.jpg 311,274,399,389,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000098.jpg 286,123,321,183,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/apple000099.jpg 364,231,438,321,2 535,229,611,320,2 184,231,255,320,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000002.jpg 322,2,371,54,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000003.jpg 409,212,488,297,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000004.jpg 226,147,291,216,3 517,397,564,451,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000008.jpg 410,101,464,157,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000009.jpg 919,251,1032,364,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000010.jpg 145,86,261,208,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000012.jpg 571,78,640,176,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000013.jpg 354,328,410,389,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000014.jpg 378,1,523,159,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000017.jpg 587,122,677,218,3 91,150,132,204,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000018.jpg 192,53,245,126,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000019.jpg 200,46,247,91,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000020.jpg 522,98,615,199,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000021.jpg 307,310,405,422,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000022.jpg 818,296,971,449,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000023.jpg 398,156,479,252,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000024.jpg 93,27,149,91,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000025.jpg 385,1,460,74,3 363,269,423,341,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000026.jpg 370,112,427,178,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000027.jpg 176,74,247,171,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000029.jpg 303,50,415,191,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000030.jpg 279,115,362,206,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000031.jpg 316,142,414,239,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000032.jpg 406,1,501,104,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000033.jpg 105,45,184,132,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000034.jpg 328,36,400,117,3 547,323,591,372,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000035.jpg 582,78,672,179,3 861,184,927,344,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000036.jpg 215,47,260,99,3 483,185,640,391,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000037.jpg 272,136,365,243,3 826,320,875,374,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000038.jpg 53,67,82,104,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000039.jpg 515,56,569,115,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000041.jpg 304,103,344,147,3 380,243,414,282,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000044.jpg 281,28,369,123,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000045.jpg 744,276,843,385,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000046.jpg 410,224,571,394,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000047.jpg 320,102,394,183,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000048.jpg 361,92,464,200,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000049.jpg 505,145,614,259,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000050.jpg 331,83,394,155,3 224,227,254,260,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000051.jpg 495,61,594,168,3 463,333,519,399,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000052.jpg 218,71,289,136,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000053.jpg 335,71,363,109,3 75,154,104,280,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000054.jpg 208,1,286,80,3 293,212,317,242,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000056.jpg 141,37,290,182,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000057.jpg 625,118,692,211,3 780,365,831,445,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000058.jpg 391,118,446,190,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000059.jpg 569,136,680,259,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000060.jpg 297,32,358,101,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000061.jpg 283,63,402,172,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000063.jpg 317,80,422,184,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000064.jpg 411,172,486,265,3 257,430,298,485,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000065.jpg 442,200,484,243,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000067.jpg 406,1,510,112,3 574,209,605,241,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000068.jpg 367,155,501,294,3 409,475,444,516,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000069.jpg 518,244,588,334,3 360,70,401,129,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000070.jpg 592,243,647,303,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000071.jpg 352,283,520,460,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000072.jpg 486,180,607,358,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000073.jpg 494,35,617,169,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000074.jpg 338,44,397,107,3 455,181,489,280,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000075.jpg 624,206,750,406,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000076.jpg 369,73,547,330,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000078.jpg 446,184,505,309,3 204,151,308,282,3 752,185,852,284,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000079.jpg 270,40,325,103,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000080.jpg 269,98,340,171,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000082.jpg 392,37,505,164,3 439,357,473,394,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000083.jpg 240,26,283,78,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000086.jpg 382,104,444,170,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000087.jpg 189,235,247,309,3 723,236,768,305,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000088.jpg 571,26,603,79,3 71,192,129,252,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000089.jpg 517,81,604,175,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000091.jpg 318,33,404,150,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000093.jpg 215,205,285,280,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000095.jpg 163,544,193,581,3 367,108,501,233,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000096.jpg 644,22,827,232,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000097.jpg 334,87,458,216,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000098.jpg 546,171,631,266,3 403,347,448,396,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/coco000099.jpg 1106,440,1251,670,3
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000001.jpg 263,104,319,167,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000002.jpg 124,32,179,72,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000003.jpg 163,87,245,143,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000004.jpg 340,304,572,511,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000005.jpg 352,142,472,222,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000008.jpg 276,115,464,234,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000010.jpg 257,231,379,339,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000011.jpg 167,124,252,230,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000012.jpg 513,128,620,198,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000013.jpg 903,319,1723,837,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000014.jpg 312,80,447,171,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000015.jpg 112,774,206,909,4 285,38,521,340,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000016.jpg 294,34,493,169,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000017.jpg 433,127,537,199,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000018.jpg 285,16,419,106,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000019.jpg 175,179,400,406,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000020.jpg 102,14,213,90,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000021.jpg 156,25,246,84,4 207,188,237,208,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000022.jpg 293,115,507,316,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000023.jpg 303,1,491,106,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000024.jpg 287,189,393,262,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000025.jpg 652,235,941,441,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000026.jpg 162,44,250,135,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000027.jpg 217,41,419,164,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000029.jpg 587,287,762,410,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000030.jpg 299,74,402,142,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000031.jpg 181,20,275,73,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000032.jpg 473,527,642,641,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000034.jpg 251,52,390,143,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000035.jpg 202,115,248,146,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000036.jpg 540,293,691,391,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000037.jpg 338,77,385,128,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000038.jpg 369,75,502,168,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000040.jpg 208,356,254,400,4 372,343,449,399,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000041.jpg 232,162,347,246,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000042.jpg 651,76,724,138,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000045.jpg 237,50,356,136,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000046.jpg 74,212,161,296,4 489,76,527,105,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000047.jpg 354,63,451,133,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000048.jpg 219,84,324,171,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000049.jpg 154,15,333,137,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000050.jpg 445,142,612,252,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000052.jpg 251,120,314,164,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000054.jpg 224,32,356,133,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000056.jpg 460,241,582,320,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000057.jpg 215,39,622,409,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000059.jpg 355,123,441,182,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000060.jpg 138,76,208,125,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000061.jpg 146,121,403,237,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000063.jpg 299,87,360,128,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000064.jpg 253,1,341,110,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000065.jpg 434,128,538,198,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000066.jpg 333,227,631,429,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000067.jpg 218,106,492,494,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000069.jpg 397,405,571,564,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000070.jpg 208,313,276,363,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000071.jpg 312,80,447,170,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000072.jpg 173,180,398,408,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000073.jpg 319,138,375,210,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000074.jpg 284,176,449,293,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000075.jpg 503,103,550,142,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000076.jpg 289,32,385,99,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000077.jpg 237,145,407,260,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000078.jpg 293,62,363,110,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000079.jpg 116,34,247,125,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000082.jpg 302,1,364,50,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000083.jpg 156,24,246,84,4 207,188,237,208,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000084.jpg 122,30,353,214,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000086.jpg 369,23,497,107,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000087.jpg 263,12,543,197,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000088.jpg 445,109,795,372,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000089.jpg 356,50,478,193,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000090.jpg 324,130,374,176,4 181,162,206,182,4 93,223,121,260,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000091.jpg 201,122,263,169,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000092.jpg 512,224,636,312,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000093.jpg 528,270,631,343,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000095.jpg 474,153,540,208,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000096.jpg 250,224,284,271,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000097.jpg 234,105,401,280,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hm000099.jpg 381,170,533,271,4
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000000.jpg 204,240,486,295,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000001.jpg 173,240,466,294,5 10,449,91,481,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000002.jpg 114,1,642,325,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000003.jpg 290,216,570,292,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000004.jpg 155,203,646,358,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000005.jpg 114,257,422,347,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000006.jpg 262,109,429,165,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000007.jpg 227,195,462,272,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000008.jpg 355,179,582,231,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000010.jpg 152,18,472,87,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000011.jpg 284,209,412,343,5 283,494,385,519,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000012.jpg 196,521,470,596,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000013.jpg 108,165,303,266,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000015.jpg 457,631,682,693,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000017.jpg 37,41,163,96,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000018.jpg 133,70,297,140,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000019.jpg 288,124,799,239,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000020.jpg 67,15,224,46,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000021.jpg 48,12,216,45,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000022.jpg 169,222,226,239,5 302,88,462,129,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000023.jpg 6,135,42,149,5 80,32,232,61,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000024.jpg 135,81,211,99,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000025.jpg 273,326,517,422,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000026.jpg 254,12,573,122,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000027.jpg 62,37,298,97,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000028.jpg 319,154,440,189,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000029.jpg 175,33,555,192,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000030.jpg 84,109,357,196,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000031.jpg 393,161,616,232,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000032.jpg 19,56,395,147,5 1,223,112,270,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000033.jpg 102,102,154,115,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000034.jpg 209,72,534,233,5 462,392,549,418,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000035.jpg 510,31,700,77,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000036.jpg 241,366,444,422,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000037.jpg 207,203,311,245,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000039.jpg 362,131,511,179,5 173,268,227,289,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000040.jpg 155,7,738,197,5 828,463,1014,506,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000041.jpg 352,314,516,349,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000042.jpg 286,298,654,383,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000043.jpg 248,18,760,245,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000044.jpg 14,37,86,65,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000045.jpg 604,259,675,287,5 197,21,466,77,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000046.jpg 144,58,314,125,5 510,169,622,199,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000047.jpg 367,1,761,74,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000048.jpg 195,252,488,374,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000049.jpg 198,89,446,160,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000052.jpg 223,219,367,275,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000053.jpg 1,383,102,416,5 36,64,427,157,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000054.jpg 328,151,485,197,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000055.jpg 697,183,815,244,5 736,344,879,381,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000056.jpg 163,292,235,315,5 303,145,517,205,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000059.jpg 265,218,515,270,5 598,305,692,373,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000060.jpg 204,457,490,514,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000062.jpg 468,29,811,114,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000063.jpg 147,443,539,530,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000064.jpg 88,71,177,91,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000065.jpg 319,62,588,228,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000066.jpg 188,123,445,229,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000067.jpg 30,45,142,69,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000068.jpg 177,296,346,364,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000069.jpg 377,16,774,93,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000070.jpg 15,23,127,62,5 164,114,198,123,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000071.jpg 188,174,568,338,5 511,523,605,552,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000072.jpg 237,199,440,240,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000073.jpg 157,145,371,251,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000074.jpg 1251,479,1810,610,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000075.jpg 222,426,406,474,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000076.jpg 459,139,566,206,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000077.jpg 29,42,134,78,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000078.jpg 241,48,583,198,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000079.jpg 288,288,593,394,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000080.jpg 356,364,589,489,5 470,669,636,716,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000082.jpg 304,123,486,185,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000083.jpg 115,178,562,360,5 88,537,235,596,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000084.jpg 146,223,630,321,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000086.jpg 232,122,581,288,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000087.jpg 205,182,700,294,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000089.jpg 182,41,457,139,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000090.jpg 280,242,550,323,5 261,682,357,717,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000091.jpg 261,332,493,395,5 23,593,85,607,5 383,592,434,603,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000093.jpg 139,112,405,176,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000094.jpg 94,1,192,49,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000096.jpg 203,319,464,411,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000097.jpg 464,499,654,544,5 91,52,603,157,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000098.jpg 157,105,622,186,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/hotmaxx000099.jpg 252,89,516,239,5
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000000.jpg 1,89,232,266,6 480,104,904,249,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000001.jpg 570,228,866,279,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000002.jpg 518,84,800,133,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000003.jpg 94,46,195,63,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000004.jpg 384,101,711,150,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000005.jpg 23,66,148,190,6 930,137,1035,235,6 172,437,222,449,6 758,241,903,276,6 337,227,466,271,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000006.jpg 1635,238,1819,379,6 218,298,351,435,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000009.jpg 324,176,469,201,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000010.jpg 710,181,967,238,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000011.jpg 918,1,1928,199,6 972,1230,1084,1251,6 479,1310,573,1329,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000012.jpg 357,32,524,164,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000013.jpg 494,374,539,385,6 401,100,604,147,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000014.jpg 217,107,322,134,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000015.jpg 215,97,578,196,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000016.jpg 340,63,476,117,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000017.jpg 317,182,455,237,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000018.jpg 345,79,462,105,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000019.jpg 212,153,294,167,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000020.jpg 245,111,362,133,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000021.jpg 303,155,595,200,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000022.jpg 592,214,779,246,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000023.jpg 665,313,1471,444,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000024.jpg 321,44,473,76,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000025.jpg 110,11,294,44,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000026.jpg 401,321,780,396,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000027.jpg 359,113,442,129,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000029.jpg 323,261,501,295,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000030.jpg 550,93,761,112,6 573,496,746,526,6 1033,555,1077,576,6 1077,255,1112,287,6 202,345,239,380,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000031.jpg 102,87,211,101,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000032.jpg 68,130,124,141,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000033.jpg 639,426,704,440,6 334,216,548,259,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000034.jpg 80,17,526,93,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000035.jpg 67,15,249,51,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000036.jpg 766,240,832,289,6 354,302,434,325,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000037.jpg 613,155,948,208,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000039.jpg 128,81,623,292,6 591,464,634,474,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000041.jpg 980,117,1022,245,6 811,349,983,396,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000042.jpg 1195,895,1506,957,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000043.jpg 202,48,334,71,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000045.jpg 127,51,260,80,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000046.jpg 326,46,512,80,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000047.jpg 216,91,449,137,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000048.jpg 241,60,574,121,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000050.jpg 72,383,298,426,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000051.jpg 362,248,405,257,6 284,10,492,63,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000052.jpg 418,74,500,89,6 58,73,139,87,6 240,211,305,241,6 589,211,654,242,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000053.jpg 224,299,409,321,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000054.jpg 513,143,752,185,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000055.jpg 865,197,1974,386,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000056.jpg 514,46,602,89,6 206,37,315,90,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000058.jpg 189,73,377,183,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000060.jpg 198,114,932,331,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000063.jpg 1042,542,1520,698,6 39,872,96,905,6 383,1016,434,1027,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000064.jpg 481,249,683,283,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000065.jpg 461,276,697,335,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000068.jpg 374,114,639,168,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000069.jpg 162,45,423,140,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000070.jpg 289,321,738,426,6 982,630,1039,639,6 608,604,645,612,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000071.jpg 299,87,424,136,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000072.jpg 232,72,327,89,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000073.jpg 288,451,443,529,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000074.jpg 448,280,678,320,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000075.jpg 306,371,553,461,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000076.jpg 194,66,325,89,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000079.jpg 105,56,235,77,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000080.jpg 487,58,743,106,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000081.jpg 381,95,484,117,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000082.jpg 448,876,721,923,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000083.jpg 248,64,522,131,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000084.jpg 124,59,205,72,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000085.jpg 182,101,363,143,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000086.jpg 420,1,710,133,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000087.jpg 184,14,254,52,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000088.jpg 189,73,507,188,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000089.jpg 351,111,468,153,6 239,217,322,228,6 224,331,260,338,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000090.jpg 584,110,960,191,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000091.jpg 383,185,480,265,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000092.jpg 272,60,494,115,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000093.jpg 490,214,569,228,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000094.jpg 140,266,201,281,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000096.jpg 82,574,153,593,6 645,69,1056,383,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000097.jpg 316,50,441,103,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/huawei000099.jpg 195,38,370,167,6
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000000.jpg 323,51,452,189,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000001.jpg 79,314,141,374,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000002.jpg 327,8,547,201,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000004.jpg 407,151,650,344,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000005.jpg 156,84,264,181,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000007.jpg 735,68,928,221,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000008.jpg 197,236,295,327,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000009.jpg 572,1,630,89,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000010.jpg 325,171,346,206,7 145,175,158,206,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000011.jpg 334,421,357,445,7 253,421,277,445,7 100,420,125,444,7 77,485,102,510,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000012.jpg 423,157,499,222,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000013.jpg 458,181,657,453,7 132,164,315,367,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000015.jpg 725,13,886,182,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000016.jpg 256,89,614,449,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000017.jpg 164,156,291,285,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000020.jpg 20,30,221,320,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000022.jpg 173,29,424,237,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000023.jpg 236,6,441,164,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000024.jpg 1882,196,2199,587,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000025.jpg 661,287,685,318,7 119,179,170,228,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000026.jpg 463,148,544,248,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000027.jpg 783,433,869,526,7 459,195,544,318,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000028.jpg 40,1,96,71,7 254,54,291,103,7 529,1,557,76,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000029.jpg 80,63,155,134,7 23,6,48,49,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000031.jpg 424,242,461,283,7 215,109,303,229,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000033.jpg 324,172,439,258,7 398,322,483,404,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000035.jpg 166,87,219,148,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000036.jpg 570,200,663,294,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000037.jpg 135,244,244,352,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000039.jpg 189,66,253,130,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000040.jpg 234,22,315,78,7 406,92,432,113,7 151,93,175,114,7 74,95,98,117,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000041.jpg 65,1,109,61,7 177,142,236,178,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000042.jpg 566,173,661,270,7 113,368,156,410,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000043.jpg 421,109,440,127,7 127,8,211,88,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000044.jpg 153,63,269,155,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000045.jpg 713,234,743,264,7 99,106,159,164,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000046.jpg 826,7,1332,317,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000047.jpg 155,118,210,189,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000048.jpg 25,3,240,245,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000049.jpg 915,109,1027,221,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000050.jpg 245,1,361,82,7 270,277,296,297,7 356,277,382,297,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000051.jpg 869,270,1192,518,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000052.jpg 358,163,447,220,7 678,332,694,353,7 513,5,555,66,7 596,354,609,389,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000053.jpg 304,266,403,371,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000055.jpg 34,62,78,97,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000056.jpg 79,105,147,172,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000057.jpg 226,16,342,130,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000058.jpg 412,29,612,431,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000059.jpg 110,103,133,122,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000060.jpg 207,94,338,197,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000061.jpg 327,40,412,116,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000062.jpg 389,1,659,200,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000063.jpg 265,298,516,545,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000064.jpg 175,298,265,394,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000065.jpg 1083,257,1525,654,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000068.jpg 565,172,660,270,7 112,368,156,409,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000069.jpg 220,380,265,425,7 355,260,431,362,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000070.jpg 173,97,262,230,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000071.jpg 110,103,133,122,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000072.jpg 490,225,572,309,7 616,405,633,420,7 302,224,337,273,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000074.jpg 186,93,210,117,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000075.jpg 456,44,636,223,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000076.jpg 78,63,155,135,7 24,5,47,47,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000077.jpg 305,78,398,145,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000078.jpg 298,150,379,329,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000079.jpg 427,242,461,283,7 215,109,304,230,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000080.jpg 224,182,275,219,7 150,189,172,214,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000081.jpg 575,395,596,413,7 697,247,812,365,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000082.jpg 5,150,50,241,7 190,334,199,354,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000084.jpg 278,219,291,244,7 328,217,348,255,7 376,1,427,72,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000085.jpg 114,80,178,138,7 8,179,20,235,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000086.jpg 541,184,634,366,7 501,9,591,107,7 200,89,248,155,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000087.jpg 604,205,691,281,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000088.jpg 144,27,207,84,7 65,176,84,198,7 1,175,21,198,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000089.jpg 138,57,237,126,7 213,226,228,237,7 164,226,179,237,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000090.jpg 271,120,398,222,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000093.jpg 283,4,466,161,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000095.jpg 130,9,191,71,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000096.jpg 388,109,421,178,7 32,195,51,254,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000097.jpg 346,118,466,246,7 446,573,529,634,7 346,575,373,604,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000098.jpg 23,109,170,237,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/kfc000099.jpg 393,35,724,348,7
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining00000-1.jpg 547,609,762,672,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000000.jpg 61,191,156,222,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000001.jpg 1128,510,1205,531,8 414,223,601,310,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000002.jpg 231,61,949,308,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000003.jpg 482,99,658,148,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000004.jpg 894,168,967,220,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000005.jpg 92,48,333,110,8 1022,312,1055,337,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000006.jpg 128,98,205,146,8 211,517,231,533,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000008.jpg 400,138,604,194,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000010.jpg 917,141,1040,200,8 834,308,1006,375,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000011.jpg 395,153,552,194,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000013.jpg 124,155,240,187,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000014.jpg 19,106,89,128,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000015.jpg 253,101,342,152,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000017.jpg 460,1,585,34,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000018.jpg 1113,403,1208,429,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000019.jpg 702,537,915,659,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000021.jpg 182,84,232,102,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000022.jpg 464,35,561,63,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000024.jpg 302,137,426,177,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000025.jpg 641,144,813,216,8 378,412,521,466,8 83,575,119,593,8 314,556,362,575,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000028.jpg 740,248,836,291,8 51,313,416,423,8 796,720,843,739,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000030.jpg 329,20,571,83,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000031.jpg 25,98,186,155,8 366,209,406,223,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000034.jpg 110,12,299,65,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000035.jpg 701,307,783,336,8 288,253,401,294,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000038.jpg 211,137,367,231,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000039.jpg 596,78,772,135,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000041.jpg 321,72,406,108,8 190,207,259,233,8 156,279,180,288,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000043.jpg 567,311,704,360,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000045.jpg 231,31,324,74,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000046.jpg 175,336,379,389,8 706,568,753,583,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000051.jpg 493,75,804,158,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000052.jpg 1,74,170,136,8 358,191,397,204,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000054.jpg 342,76,470,111,8 823,85,918,122,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000055.jpg 769,403,912,440,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000056.jpg 435,227,678,309,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000057.jpg 489,122,538,162,8 102,180,169,208,8 238,239,261,250,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000058.jpg 743,117,907,174,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000061.jpg 1338,248,1551,413,8 173,649,301,754,8 1,1150,147,1261,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000062.jpg 302,136,427,178,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000063.jpg 537,299,674,337,8 214,430,270,449,8 265,441,298,451,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000064.jpg 718,122,894,187,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000066.jpg 619,145,714,201,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000067.jpg 215,257,305,293,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000068.jpg 345,78,472,112,8 844,26,984,65,8 791,226,850,244,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000069.jpg 576,224,624,256,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000070.jpg 282,199,343,228,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000071.jpg 245,162,641,268,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000072.jpg 89,85,179,113,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000073.jpg 490,216,585,260,8 796,329,874,367,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000074.jpg 271,32,378,62,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000077.jpg 226,27,275,49,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000078.jpg 408,162,594,219,8 419,305,457,317,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000081.jpg 397,149,569,207,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000082.jpg 423,413,527,456,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000083.jpg 112,208,141,217,8 191,279,269,301,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000085.jpg 154,48,209,68,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000087.jpg 321,518,418,548,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000088.jpg 636,68,825,121,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000089.jpg 617,111,833,219,8 610,510,661,530,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000094.jpg 362,16,567,108,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000098.jpg 851,269,1057,319,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000100.jpg 587,1,742,68,8 269,117,301,129,8 380,144,411,154,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000101.jpg 409,145,575,202,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000103.jpg 113,172,370,295,8 462,432,503,503,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000105.jpg 691,156,720,173,8 278,109,331,140,8 447,236,473,244,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000106.jpg 545,165,632,241,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000108.jpg 411,73,575,117,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000111.jpg 1517,588,1586,609,8 544,324,749,400,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000112.jpg 259,1,495,118,8 599,503,640,517,8 421,481,452,493,8 310,468,334,478,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000113.jpg 516,289,559,302,8 13,41,209,94,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000116.jpg 256,172,341,197,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000119.jpg 786,98,960,164,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000136.jpg 181,197,409,256,8 468,432,516,445,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/lining000138.jpg 27,249,193,298,8
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000003.jpg 152,201,270,368,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000004.jpg 561,152,727,329,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000005.jpg 310,76,362,118,9 542,176,575,205,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000006.jpg 340,143,434,260,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000007.jpg 372,205,429,253,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000008.jpg 286,24,447,157,9 117,192,212,267,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000009.jpg 322,433,378,499,9 158,455,180,489,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000010.jpg 218,27,267,66,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000011.jpg 29,37,99,97,9 85,604,227,718,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000012.jpg 195,412,267,479,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000013.jpg 3,1,92,81,9 59,151,105,193,9 319,116,340,150,9 383,105,431,148,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000014.jpg 253,117,338,242,9 144,475,167,501,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000015.jpg 110,17,181,88,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000016.jpg 30,85,82,138,9 498,52,578,122,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000017.jpg 433,87,521,166,9 121,211,139,227,2
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000018.jpg 41,68,159,149,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000019.jpg 230,171,284,220,9 333,221,372,253,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000022.jpg 71,118,114,184,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000023.jpg 191,5,274,86,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000024.jpg 61,123,111,187,9 282,233,294,245,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000028.jpg 419,63,462,137,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000029.jpg 7,156,136,260,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000030.jpg 127,61,187,114,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000031.jpg 29,95,127,178,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000032.jpg 193,252,257,306,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000033.jpg 83,31,118,63,9 289,29,324,62,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000034.jpg 1,189,30,239,9 161,141,233,233,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000035.jpg 41,59,59,75,9 156,60,175,76,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000036.jpg 214,59,321,188,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000037.jpg 32,119,81,161,9 301,124,348,165,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000038.jpg 286,158,402,258,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000039.jpg 277,228,385,352,9 145,515,210,585,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000040.jpg 252,385,597,709,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000041.jpg 91,77,136,116,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000043.jpg 278,30,384,127,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000045.jpg 164,60,280,151,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000046.jpg 213,12,276,70,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000047.jpg 27,84,97,147,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000048.jpg 306,17,398,102,9 406,188,421,202,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000049.jpg 407,173,448,206,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000051.jpg 1328,841,1890,1370,9 1108,1753,1176,1819,9 3361,1479,3448,1559,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000053.jpg 45,2,209,142,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000054.jpg 1,1,111,96,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000055.jpg 498,317,705,514,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000056.jpg 115,66,202,151,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000057.jpg 350,36,460,134,9 287,241,303,255,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000059.jpg 33,20,62,45,9 127,89,148,107,9 266,91,286,108,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000060.jpg 170,10,297,118,9 595,267,622,291,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000064.jpg 523,104,673,292,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000065.jpg 819,19,1076,256,9 331,357,460,463,9 1126,552,1181,604,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000066.jpg 173,7,312,102,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000068.jpg 153,34,261,144,9 499,134,538,197,9 405,267,427,293,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000069.jpg 313,1,436,168,9 115,282,128,302,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000070.jpg 931,104,1085,254,9 484,457,513,486,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000071.jpg 382,80,612,349,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000072.jpg 414,195,492,263,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000074.jpg 602,86,678,147,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000075.jpg 153,305,346,475,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000076.jpg 486,186,592,288,9 865,199,911,272,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000077.jpg 212,39,336,148,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000078.jpg 366,229,416,289,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000079.jpg 410,106,512,213,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000081.jpg 79,437,146,493,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000082.jpg 66,37,171,120,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000083.jpg 19,8,302,315,9 535,178,562,204,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000085.jpg 57,89,114,143,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000086.jpg 469,51,629,195,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000087.jpg 93,26,126,64,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000089.jpg 224,258,297,321,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000090.jpg 346,6,395,55,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000091.jpg 79,1,192,117,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000094.jpg 358,69,408,114,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000095.jpg 330,1,403,71,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000096.jpg 131,307,202,426,9 402,428,441,516,9 326,68,408,239,9 177,708,195,736,9 69,695,91,725,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000097.jpg 686,38,737,89,9 446,40,521,126,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000098.jpg 198,212,319,317,9 550,320,620,437,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mcdonalds000099.jpg 99,20,245,146,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000001.jpg 432,1,500,54,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000002.jpg 242,121,307,220,10 179,360,222,408,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000003.jpg 60,1,326,286,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000004.jpg 161,58,209,103,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000007.jpg 294,43,373,143,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000008.jpg 248,1,314,60,10 510,15,542,46,10 97,73,125,99,10 482,66,512,93,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000009.jpg 298,73,402,173,10 293,320,309,344,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000010.jpg 328,147,380,200,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000012.jpg 247,71,286,122,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000013.jpg 192,24,293,144,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000014.jpg 61,26,137,104,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000015.jpg 554,169,650,261,10 550,428,648,488,9
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000017.jpg 28,132,72,173,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000018.jpg 117,313,186,376,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000020.jpg 1616,219,1957,550,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000021.jpg 715,352,744,379,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000022.jpg 264,63,317,133,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000023.jpg 288,312,374,440,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000024.jpg 53,248,492,680,10 694,357,727,397,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000025.jpg 633,55,773,235,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000027.jpg 530,5,625,92,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000028.jpg 507,77,580,153,10 563,166,598,203,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000029.jpg 303,22,344,63,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000031.jpg 977,267,1172,524,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000032.jpg 307,131,346,162,10 304,298,343,330,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000033.jpg 1018,458,1087,527,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000034.jpg 84,76,141,140,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000035.jpg 268,34,312,91,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000036.jpg 428,117,516,238,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000037.jpg 389,59,520,183,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000038.jpg 1157,471,1232,545,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000039.jpg 142,553,184,590,10 451,233,547,348,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000040.jpg 830,1,955,94,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000041.jpg 101,1,217,128,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000042.jpg 326,13,392,78,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000043.jpg 241,277,316,360,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000045.jpg 366,2,616,256,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000047.jpg 265,91,374,184,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000048.jpg 95,304,146,350,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000049.jpg 428,69,517,165,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000050.jpg 2151,1290,2314,1502,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000051.jpg 521,304,615,546,10 550,834,661,974,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000052.jpg 541,27,620,105,10 938,180,1047,286,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000053.jpg 774,705,936,879,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000054.jpg 223,3,294,94,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000055.jpg 573,171,603,198,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000057.jpg 440,24,510,116,10 160,130,189,212,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000058.jpg 256,41,287,77,10 1,104,98,186,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000059.jpg 937,36,1054,219,10 1754,66,1857,167,10 583,615,621,655,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000060.jpg 415,9,597,194,10 370,355,417,402,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000061.jpg 246,9,356,120,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000062.jpg 434,90,501,165,10 384,263,413,292,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000063.jpg 267,46,383,164,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000064.jpg 62,143,207,289,10 712,217,775,280,10 713,572,774,628,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000065.jpg 353,184,561,400,10 675,622,724,669,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000066.jpg 749,11,870,141,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000067.jpg 272,202,329,267,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000068.jpg 214,80,286,153,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000069.jpg 15,52,156,195,10 513,142,554,179,10 494,70,512,104,10 511,309,546,354,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000070.jpg 1701,376,1882,657,10 1195,1068,1304,1174,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000071.jpg 199,73,250,157,10 579,279,697,409,10 201,271,226,309,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000072.jpg 269,63,339,160,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000073.jpg 80,103,103,131,10 290,121,315,146,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000075.jpg 556,3,676,126,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000076.jpg 87,110,144,165,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000077.jpg 1311,1322,1469,1474,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000079.jpg 407,197,477,268,10 540,359,572,391,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000080.jpg 256,9,331,79,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000081.jpg 131,105,209,200,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000084.jpg 567,217,669,351,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000085.jpg 153,31,189,72,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000086.jpg 139,139,190,188,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000087.jpg 278,101,327,153,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000088.jpg 586,300,652,366,10 936,424,1041,521,10 631,541,662,571,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000089.jpg 345,282,427,408,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000090.jpg 117,236,165,281,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000091.jpg 321,177,337,193,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000092.jpg 1345,404,1397,453,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000093.jpg 274,164,325,215,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000094.jpg 252,492,292,560,10 636,502,668,560,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000096.jpg 61,138,86,160,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/mi000098.jpg 97,136,226,270,10
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000001.jpg 205,66,302,161,11 515,191,548,233,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000002.jpg 385,123,419,169,11 549,228,571,260,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000003.jpg 871,416,1064,614,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000004.jpg 58,198,126,282,11 17,197,68,268,11 427,199,521,309,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000005.jpg 82,478,182,572,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000006.jpg 495,7,655,168,11 410,356,448,433,11 292,419,325,453,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000008.jpg 458,116,555,225,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000011.jpg 330,362,418,454,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000014.jpg 737,37,1026,351,11 81,249,315,539,11 307,249,448,554,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000015.jpg 215,51,380,190,11 186,54,230,234,11 194,190,381,234,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000017.jpg 399,133,720,447,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000018.jpg 322,65,384,127,11 722,236,807,321,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000019.jpg 244,111,273,195,11 369,120,450,199,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000020.jpg 425,33,539,161,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000021.jpg 384,187,427,231,11 181,182,206,214,11 207,182,223,218,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000022.jpg 279,95,312,139,11 846,230,884,270,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000023.jpg 258,118,302,162,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000024.jpg 569,73,597,106,11 352,124,373,148,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000025.jpg 256,91,294,150,11 295,92,327,153,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000026.jpg 59,1,201,150,11 673,309,717,355,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000027.jpg 425,25,544,142,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000028.jpg 498,71,546,118,11 163,162,212,229,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000029.jpg 122,13,223,115,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000031.jpg 253,25,370,158,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000032.jpg 536,50,674,185,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000034.jpg 219,359,297,455,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000035.jpg 1911,1169,2086,1343,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000036.jpg 57,10,273,212,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000037.jpg 403,209,520,344,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000039.jpg 16,295,114,368,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000043.jpg 359,142,416,205,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000045.jpg 61,88,191,251,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000046.jpg 301,235,420,353,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000047.jpg 408,139,490,280,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000048.jpg 438,253,491,309,11 931,387,1021,478,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000049.jpg 605,160,691,252,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000051.jpg 296,61,375,140,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000052.jpg 644,74,729,167,11 955,357,1000,420,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000053.jpg 446,172,510,231,11 20,270,78,321,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000054.jpg 884,173,912,235,11 861,563,957,660,11 303,347,334,382,11 159,130,194,203,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000055.jpg 737,351,850,463,11 172,58,319,202,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000056.jpg 613,11,642,114,11 530,14,613,112,11 450,98,502,166,11 189,107,211,150,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000058.jpg 458,138,523,243,11 216,274,259,317,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000059.jpg 462,122,519,177,11 161,57,208,102,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000060.jpg 214,23,265,73,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000061.jpg 135,313,166,361,11 206,251,232,290,11 231,250,257,291,11 55,227,73,259,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000062.jpg 918,1,1194,305,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000063.jpg 220,174,315,314,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000064.jpg 317,491,406,632,11 202,68,389,255,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000065.jpg 25,201,71,252,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000066.jpg 591,248,649,305,11 4,266,43,342,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000067.jpg 35,333,74,367,11 668,227,780,375,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000069.jpg 1165,381,1391,606,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000070.jpg 312,117,417,246,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000071.jpg 295,108,340,155,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000074.jpg 1638,553,1932,838,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000076.jpg 621,27,716,210,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000077.jpg 292,163,341,226,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000078.jpg 650,245,688,283,11 381,78,450,152,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000080.jpg 416,186,491,266,11 59,240,118,314,11 17,241,68,311,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000081.jpg 510,1,584,56,11 329,52,378,119,11 306,53,329,121,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000082.jpg 350,282,419,349,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000083.jpg 55,173,182,278,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000084.jpg 532,168,695,383,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000085.jpg 194,191,268,278,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000086.jpg 272,18,348,92,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000087.jpg 191,4,273,107,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000088.jpg 515,249,586,362,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000089.jpg 187,182,219,279,11 115,182,188,262,11 384,187,468,271,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000090.jpg 455,348,501,389,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000091.jpg 81,136,125,182,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000092.jpg 286,92,374,181,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000093.jpg 33,150,61,205,11 402,75,455,146,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000094.jpg 381,236,448,312,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000095.jpg 870,420,1064,613,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000096.jpg 527,153,700,326,11 170,61,236,155,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000097.jpg 172,161,199,199,11 146,162,172,201,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000098.jpg 457,272,528,344,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/naixue000099.jpg 330,290,348,324,11 304,290,330,323,11
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000000.jpg 37,95,89,115,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000001.jpg 228,32,296,68,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000002.jpg 277,116,332,135,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000003.jpg 120,71,146,97,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000004.jpg 46,79,95,113,12 80,214,168,265,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000005.jpg 96,95,154,117,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000006.jpg 32,79,80,96,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000007.jpg 643,379,712,413,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000008.jpg 274,148,506,228,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000009.jpg 102,181,242,232,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000010.jpg 104,79,300,152,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000013.jpg 224,56,374,108,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000015.jpg 184,150,247,173,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000016.jpg 346,1,534,93,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000018.jpg 275,174,461,272,12 141,302,157,311,12 231,268,247,276,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000020.jpg 540,379,693,455,12 41,559,284,649,12 1077,505,1126,542,0 1273,539,1302,583,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000021.jpg 525,294,619,330,12 537,592,575,608,12 543,627,579,643,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000022.jpg 460,145,706,204,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000023.jpg 564,350,821,444,12 94,619,337,711,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000024.jpg 37,40,55,52,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000026.jpg 222,62,430,124,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000027.jpg 391,156,777,275,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000028.jpg 532,97,770,206,12 819,665,891,692,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000029.jpg 150,245,581,417,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000030.jpg 135,29,476,166,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000031.jpg 691,92,834,141,12 487,369,540,387,12 129,318,268,364,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000032.jpg 247,69,436,139,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000033.jpg 188,138,386,209,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000035.jpg 25,182,86,199,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000037.jpg 246,48,372,102,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000039.jpg 115,29,334,166,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000040.jpg 302,52,440,92,12 446,290,475,301,12 100,157,124,173,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000042.jpg 352,36,441,70,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000043.jpg 217,1,514,176,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000044.jpg 391,315,424,329,12 162,78,230,104,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000045.jpg 234,105,301,131,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000047.jpg 76,4,184,50,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000049.jpg 255,336,393,402,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000050.jpg 448,72,502,103,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000051.jpg 100,1,328,169,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000052.jpg 229,18,316,50,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000053.jpg 292,206,367,234,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000054.jpg 361,235,581,359,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000055.jpg 13,247,1080,614,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000056.jpg 393,224,434,239,12 150,1,268,56,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000058.jpg 179,115,201,139,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000059.jpg 832,196,890,229,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000061.jpg 342,72,400,103,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000062.jpg 224,69,453,152,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000063.jpg 614,381,787,446,12 469,667,528,689,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000064.jpg 232,257,483,361,12 1193,424,1229,472,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000066.jpg 228,72,280,100,12 182,283,206,292,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000067.jpg 289,140,538,224,12 942,268,969,286,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000068.jpg 66,8,145,139,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000069.jpg 1023,280,1164,335,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000070.jpg 408,169,703,274,12 51,154,286,299,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000071.jpg 202,59,278,92,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000072.jpg 670,102,966,253,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000073.jpg 145,251,194,275,12 626,49,1138,410,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000075.jpg 189,91,276,124,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000077.jpg 528,1,706,75,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000079.jpg 81,408,158,466,12 693,532,960,634,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000080.jpg 312,61,406,94,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000081.jpg 305,47,359,68,12 583,194,621,207,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000084.jpg 348,110,446,152,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000085.jpg 120,106,270,257,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000086.jpg 8,271,27,288,12 538,257,661,298,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000087.jpg 540,293,581,327,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000088.jpg 766,469,880,546,12 655,656,732,700,12 392,602,419,614,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000089.jpg 592,121,749,228,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000090.jpg 529,203,811,325,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000091.jpg 137,127,205,162,12 203,121,278,167,0
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000093.jpg 299,84,447,140,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000095.jpg 325,341,410,377,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000097.jpg 1013,356,1131,398,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000098.jpg 419,253,442,263,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000099.jpg 270,68,350,103,12 599,102,625,127,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000100.jpg 34,182,66,207,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000101.jpg 91,239,169,292,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000102.jpg 485,494,548,530,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike000103.jpg 596,186,801,273,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike1.jpg 241,133,408,205,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/nike2.jpg 393,88,531,140,12 18,291,51,303,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000000.jpg 213,158,548,241,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000001.jpg 475,245,581,322,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000002.jpg 265,414,342,431,13 109,76,464,130,13 58,432,143,452,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000003.jpg 739,537,791,554,13 91,130,407,226,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000004.jpg 165,140,518,202,13 303,526,398,545,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000005.jpg 160,371,652,451,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000007.jpg 173,135,495,210,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000008.jpg 151,110,364,182,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000010.jpg 617,281,1302,449,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000011.jpg 193,45,526,97,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000012.jpg 103,22,290,54,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000013.jpg 69,52,284,92,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000015.jpg 341,37,465,69,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000017.jpg 328,302,398,316,13 130,89,543,175,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000018.jpg 160,50,477,108,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000019.jpg 446,18,637,60,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000020.jpg 354,294,564,329,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000021.jpg 226,184,509,316,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000022.jpg 147,261,427,418,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000024.jpg 295,58,402,86,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000025.jpg 155,50,449,98,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000027.jpg 843,1165,1065,1203,13 80,492,913,641,13 119,1715,167,1810,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000028.jpg 725,899,886,929,13 479,137,1182,238,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000029.jpg 102,132,318,172,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000030.jpg 75,119,197,137,13 256,16,439,48,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000032.jpg 64,60,325,197,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000035.jpg 154,37,397,83,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000036.jpg 40,38,215,73,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000037.jpg 54,128,192,149,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000038.jpg 137,244,211,259,13 118,27,508,94,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000039.jpg 250,332,298,344,13 171,113,382,150,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000040.jpg 192,179,426,269,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000041.jpg 548,208,624,225,13 91,28,152,86,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000042.jpg 280,431,527,474,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000043.jpg 167,27,343,74,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000044.jpg 152,116,442,173,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000045.jpg 218,391,646,534,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000046.jpg 3,170,107,209,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000047.jpg 302,276,370,289,13 301,52,521,116,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000048.jpg 223,181,480,259,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000049.jpg 280,255,356,267,13 199,78,456,119,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000050.jpg 581,320,705,405,13 273,436,351,506,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000051.jpg 1027,846,1596,982,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000052.jpg 234,513,641,642,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000054.jpg 103,140,597,222,13 296,439,385,455,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000055.jpg 391,161,482,199,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000056.jpg 269,184,438,215,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000057.jpg 49,50,280,85,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000058.jpg 341,391,520,422,13 170,109,661,194,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000060.jpg 420,268,482,279,13 124,13,431,112,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000062.jpg 152,679,271,702,13 120,192,598,279,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000063.jpg 61,50,180,75,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000065.jpg 213,253,469,298,13 592,392,615,401,13 659,191,688,205,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000066.jpg 718,115,976,181,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000068.jpg 32,28,394,87,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000069.jpg 239,273,335,290,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000070.jpg 1014,498,1257,540,13 1322,673,1400,689,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000071.jpg 593,140,828,204,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000072.jpg 267,147,401,213,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000073.jpg 12,135,169,210,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000074.jpg 88,49,227,118,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000075.jpg 299,22,439,83,13 11,69,59,117,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000076.jpg 257,128,559,195,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000077.jpg 94,104,294,144,13 84,302,192,326,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000078.jpg 1198,1053,1642,1126,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000079.jpg 531,163,885,231,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000082.jpg 284,51,351,75,13 99,70,154,93,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000083.jpg 175,53,416,94,13 281,251,326,259,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000084.jpg 93,87,264,116,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000086.jpg 172,208,329,238,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000087.jpg 387,30,906,154,13 692,608,795,633,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000088.jpg 247,215,288,224,13 146,54,319,85,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000089.jpg 7,309,402,376,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000090.jpg 243,869,1480,1088,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000093.jpg 1306,206,1617,332,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000094.jpg 172,206,427,365,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000095.jpg 23,156,153,180,13 56,308,152,328,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000097.jpg 87,105,165,120,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/oppo000099.jpg 292,41,403,61,13
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000000.jpg 254,328,344,455,14 475,67,584,158,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000001.jpg 494,89,672,194,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000002.jpg 394,264,432,297,14 157,150,191,186,14 711,128,763,175,14 1033,280,1057,315,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000003.jpg 70,130,179,235,14 490,211,519,238,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000005.jpg 394,9,449,61,14 320,194,347,216,14 25,154,116,249,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000008.jpg 631,75,929,339,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000009.jpg 481,117,636,253,14 308,488,346,526,14 826,463,847,480,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000010.jpg 585,55,683,130,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000011.jpg 226,15,308,80,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000012.jpg 388,109,431,143,14 581,134,592,154,14 326,203,339,214,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000015.jpg 391,159,442,199,14 190,259,222,285,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000017.jpg 671,164,741,219,14 7,308,118,393,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000019.jpg 282,228,367,300,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000020.jpg 508,734,601,807,14 533,417,687,532,14 25,811,62,840,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000023.jpg 340,198,388,236,14 46,304,63,318,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000024.jpg 498,1,673,135,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000026.jpg 272,55,327,99,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000029.jpg 35,477,76,591,14 196,61,282,239,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000031.jpg 441,100,533,173,14 244,246,315,380,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000032.jpg 509,170,570,233,14 527,393,547,417,14 295,348,352,423,14 193,367,211,393,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000033.jpg 338,69,383,144,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000034.jpg 534,305,731,468,14 945,687,1028,768,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000035.jpg 409,79,463,122,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000036.jpg 465,292,516,356,14 589,223,611,254,14 89,197,118,231,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000037.jpg 288,73,321,114,14 116,225,148,251,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000038.jpg 752,105,807,163,14 14,275,182,399,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000042.jpg 803,196,1056,474,14 1201,1153,1262,1229,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000043.jpg 453,311,626,447,14 380,510,402,562,14 117,405,139,453,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000045.jpg 879,344,1195,614,14 870,1222,975,1398,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000046.jpg 252,118,379,212,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000047.jpg 458,287,530,347,14 157,86,236,188,14 228,282,280,340,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000048.jpg 186,304,236,344,14 263,91,296,156,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000049.jpg 443,304,461,317,14 455,1,575,93,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000052.jpg 179,62,252,134,14 29,247,53,302,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000053.jpg 569,85,633,200,14 367,56,478,166,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000055.jpg 296,211,330,270,14 37,360,93,419,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000056.jpg 498,328,561,423,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000057.jpg 496,205,602,313,14 418,351,466,405,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000059.jpg 541,292,572,326,14 397,102,466,168,14 320,467,337,482,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000060.jpg 410,28,542,137,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000061.jpg 231,47,340,132,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000062.jpg 661,116,711,192,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000063.jpg 438,66,553,217,14 330,636,362,666,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000064.jpg 372,151,428,197,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000065.jpg 482,422,519,462,14 430,180,467,219,14 269,416,312,451,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000067.jpg 275,199,368,300,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000068.jpg 511,139,577,193,14 12,247,100,333,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000069.jpg 464,233,520,286,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000070.jpg 384,177,675,414,14 696,436,723,456,14 787,437,816,458,14 523,434,547,453,14 444,434,469,455,14 367,435,390,453,14 293,435,314,454,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000071.jpg 468,215,504,252,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000073.jpg 296,56,383,140,14 452,77,501,166,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000074.jpg 36,58,137,143,14 218,101,239,123,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000076.jpg 562,91,595,145,14 107,326,184,401,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000077.jpg 1131,507,1411,756,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000081.jpg 323,194,378,236,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000082.jpg 510,34,648,144,14 348,356,557,540,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000083.jpg 259,24,333,73,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000084.jpg 1510,858,1681,988,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000085.jpg 507,6,600,73,14 274,355,295,393,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000086.jpg 154,112,185,161,14 123,266,158,318,14 19,190,32,203,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000087.jpg 269,148,310,185,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000088.jpg 565,103,683,229,14 1173,233,1214,307,14 1135,355,1212,475,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000089.jpg 178,107,292,206,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000092.jpg 372,59,562,203,14 444,520,541,599,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000093.jpg 216,58,314,135,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000094.jpg 290,11,405,87,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000095.jpg 609,181,700,264,14 578,69,629,114,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000096.jpg 438,21,503,90,14 539,182,568,227,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000098.jpg 235,284,268,326,14 200,93,248,166,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000100.jpg 451,185,491,223,14 126,273,278,400,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000102.jpg 668,317,694,340,14 356,316,384,338,14 361,526,519,597,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000104.jpg 218,156,259,209,14 427,384,453,412,14 893,318,978,535,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000105.jpg 491,266,671,405,14 64,243,176,353,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000106.jpg 236,67,314,129,14 185,196,204,211,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000107.jpg 603,176,691,244,14 524,218,569,253,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000109.jpg 42,151,260,324,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000110.jpg 609,296,883,532,14 373,218,442,289,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000111.jpg 376,113,473,204,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000115.jpg 405,200,670,417,14 96,354,149,393,14 242,368,276,396,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000116.jpg 324,133,353,164,14 369,203,380,222,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000117.jpg 525,352,564,382,14 223,35,347,147,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000119.jpg 414,89,467,136,14 288,168,310,187,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000120.jpg 454,20,583,121,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/puma000121.jpg 516,62,530,81,14 421,31,475,101,14 108,29,151,65,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000000.jpg 787,315,867,393,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000001.jpg 438,102,540,236,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000003.jpg 345,152,400,204,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000004.jpg 406,181,429,232,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000006.jpg 281,197,369,286,15 44,166,60,218,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000007.jpg 424,349,489,434,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000008.jpg 150,30,202,76,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000009.jpg 268,174,414,321,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000010.jpg 223,103,243,128,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000012.jpg 633,101,727,202,15 433,332,458,370,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000013.jpg 204,80,242,118,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000014.jpg 61,6,183,101,15 273,367,333,423,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000015.jpg 282,32,352,130,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000016.jpg 285,71,349,135,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000017.jpg 273,49,308,87,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000018.jpg 72,74,133,129,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000020.jpg 433,286,492,364,15 594,287,649,364,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000021.jpg 122,256,206,343,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000022.jpg 323,122,519,387,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000023.jpg 413,445,505,534,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000024.jpg 340,8,389,60,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000025.jpg 626,207,714,334,15 108,401,138,433,15 47,406,78,445,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000026.jpg 210,109,278,168,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000027.jpg 3354,548,3572,818,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000028.jpg 185,97,270,168,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000029.jpg 30,322,101,390,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000030.jpg 5,166,54,209,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000031.jpg 76,165,94,204,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000032.jpg 74,91,230,245,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000033.jpg 254,68,319,129,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000035.jpg 133,1,197,67,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000036.jpg 237,32,347,185,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000037.jpg 1,67,238,308,15 369,135,487,249,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000038.jpg 495,129,574,201,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000039.jpg 37,98,68,130,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000042.jpg 535,346,635,443,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000044.jpg 2575,271,2895,677,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000045.jpg 1235,801,1412,977,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000046.jpg 693,210,762,281,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000047.jpg 116,284,165,333,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000048.jpg 171,90,206,132,15 473,240,493,291,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000049.jpg 859,295,897,383,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000051.jpg 188,152,561,522,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000052.jpg 304,115,345,159,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000053.jpg 144,167,181,198,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000054.jpg 145,157,176,197,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000056.jpg 307,395,400,461,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000057.jpg 63,115,157,194,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000058.jpg 217,82,255,148,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000059.jpg 25,69,142,179,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000060.jpg 734,222,880,360,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000061.jpg 570,99,609,141,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000062.jpg 476,183,588,294,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000063.jpg 338,69,401,155,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000066.jpg 251,92,328,171,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000070.jpg 36,33,121,117,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000071.jpg 943,379,1047,477,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000074.jpg 363,28,424,110,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000075.jpg 119,290,163,332,15 573,287,615,329,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000076.jpg 20,148,42,171,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000077.jpg 363,54,536,227,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000078.jpg 625,161,780,318,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000079.jpg 444,114,594,255,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000080.jpg 875,213,917,309,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000081.jpg 389,92,418,129,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000082.jpg 146,68,197,114,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000084.jpg 376,248,421,308,15 667,11,765,114,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000085.jpg 103,38,180,125,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000086.jpg 13,18,122,303,15 496,187,553,272,15 597,219,627,264,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000087.jpg 111,191,137,217,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000088.jpg 78,79,118,117,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000089.jpg 35,300,92,358,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000091.jpg 173,1,338,190,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000093.jpg 841,263,909,342,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000094.jpg 253,36,345,121,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000095.jpg 300,1,400,75,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000096.jpg 109,8,275,232,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000097.jpg 252,269,300,335,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000098.jpg 114,108,413,455,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/starburks000099.jpg 568,80,851,363,15
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000000.jpg 368,1,539,295,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000001.jpg 925,295,1234,729,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000003.jpg 95,25,364,322,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000004.jpg 83,88,138,163,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000005.jpg 228,126,291,213,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000006.jpg 237,7,315,83,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000007.jpg 393,499,575,699,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000008.jpg 1113,410,1234,538,16 358,198,486,331,16 902,573,941,611,16 8,582,37,614,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000009.jpg 406,1,586,208,16 170,66,201,98,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000010.jpg 376,85,465,191,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000012.jpg 289,95,421,226,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000013.jpg 372,86,405,128,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000014.jpg 201,12,326,135,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000015.jpg 293,4,373,79,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000016.jpg 79,168,176,276,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000017.jpg 106,244,185,327,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000018.jpg 625,270,668,347,16 665,468,682,494,16 511,466,531,493,16 514,262,571,343,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000021.jpg 305,10,368,104,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000022.jpg 320,107,360,144,16 126,50,153,104,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000024.jpg 186,75,220,110,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000025.jpg 453,108,525,170,16 169,271,228,293,12
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000026.jpg 343,284,389,330,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000027.jpg 292,178,335,225,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000028.jpg 303,1,430,128,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000029.jpg 399,14,544,154,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000030.jpg 240,125,284,167,16 235,211,253,232,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000033.jpg 579,174,770,364,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000034.jpg 142,9,181,58,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000035.jpg 657,570,811,725,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000036.jpg 424,100,486,212,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000038.jpg 634,139,978,581,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000039.jpg 1943,269,2907,1202,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000043.jpg 183,53,252,212,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000044.jpg 487,145,526,180,16 246,60,290,100,16 19,143,64,178,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000045.jpg 191,47,262,131,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000046.jpg 638,126,781,257,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000047.jpg 326,222,373,269,16 71,157,87,182,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000048.jpg 176,81,210,115,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000049.jpg 336,105,369,151,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000050.jpg 385,312,454,421,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000051.jpg 555,50,712,210,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000052.jpg 298,69,381,157,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000054.jpg 298,23,364,93,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000055.jpg 364,10,443,88,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000057.jpg 423,10,616,327,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000060.jpg 180,6,229,54,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000061.jpg 1732,22,2152,573,16 3070,65,3204,190,16 820,1360,897,1473,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000062.jpg 180,136,241,231,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000063.jpg 456,119,468,149,16 224,66,259,115,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000065.jpg 226,18,288,84,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000067.jpg 210,63,240,92,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000068.jpg 77,22,126,121,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000069.jpg 1056,632,1367,1434,16 1439,2332,1513,2475,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000070.jpg 205,555,455,796,16 752,1,960,128,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000072.jpg 115,188,195,267,16 1154,227,1224,297,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000074.jpg 112,6,169,100,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000075.jpg 977,90,1051,212,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000076.jpg 204,100,334,252,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000077.jpg 158,517,179,562,16 214,223,257,329,16 475,488,512,536,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000078.jpg 277,25,390,141,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000079.jpg 407,207,507,326,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000080.jpg 269,3,361,55,16 123,218,190,286,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000081.jpg 340,111,352,133,16 20,135,58,176,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000082.jpg 161,26,227,104,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000083.jpg 308,353,370,448,16 149,542,181,591,16 38,603,59,626,14
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000084.jpg 734,241,918,539,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000085.jpg 233,10,281,62,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000087.jpg 437,22,583,173,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000088.jpg 545,213,620,354,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000089.jpg 344,24,381,83,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000090.jpg 359,225,388,268,16 214,103,239,175,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000091.jpg 475,245,496,292,16 92,1,341,309,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000094.jpg 203,71,245,114,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000095.jpg 766,179,819,294,16 559,229,615,310,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000096.jpg 602,45,769,169,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000097.jpg 535,197,616,275,16 195,42,247,115,16 12,237,38,277,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000098.jpg 470,37,561,129,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/uniqlo000099.jpg 231,57,388,244,16
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000000.jpg 1140,53,2881,522,17 2664,1269,2858,1329,17 1303,1284,1526,1346,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000001.jpg 453,279,478,287,17 392,530,475,543,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000002.jpg 265,30,557,117,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000003.jpg 623,992,693,1014,17 114,274,1192,560,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000005.jpg 379,286,473,311,17 92,165,227,198,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000006.jpg 251,148,504,219,17 286,337,337,351,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000007.jpg 246,100,609,212,17 304,427,359,443,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000008.jpg 314,164,534,230,17 267,53,391,91,17 57,43,196,83,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000009.jpg 300,38,382,64,17 180,55,248,78,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000010.jpg 301,40,1200,233,17 583,497,1003,613,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000011.jpg 539,204,840,318,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000012.jpg 351,74,1030,266,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000013.jpg 71,13,321,79,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000014.jpg 124,330,222,359,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000015.jpg 146,139,238,173,17 210,323,245,336,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000016.jpg 1,122,404,255,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000017.jpg 410,125,830,247,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000018.jpg 86,199,341,328,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000019.jpg 354,612,401,625,17 71,149,630,294,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000020.jpg 218,228,396,280,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000021.jpg 470,154,576,185,17 910,422,960,435,17 16,423,75,435,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000022.jpg 172,55,335,99,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000023.jpg 592,380,646,406,17 72,124,307,221,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000025.jpg 352,244,425,265,17 1,243,70,264,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000026.jpg 346,380,475,409,17 160,77,663,211,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000027.jpg 836,397,887,409,17 1190,79,1461,151,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000029.jpg 1154,1310,2343,2240,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000031.jpg 398,369,508,400,17 46,76,622,242,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000032.jpg 395,504,523,540,17 158,143,447,236,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000033.jpg 436,356,496,377,17 53,2,445,128,17 715,522,746,533,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000034.jpg 54,159,76,170,17 41,11,223,69,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000035.jpg 612,550,702,578,17 241,44,922,235,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000036.jpg 208,293,258,305,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000037.jpg 117,117,388,186,17 147,234,567,343,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000038.jpg 222,425,285,444,17 72,56,437,154,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000039.jpg 135,15,273,66,17 231,266,265,277,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000040.jpg 169,49,295,84,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000041.jpg 663,276,789,311,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000042.jpg 431,76,638,172,17 358,278,388,289,17 69,298,222,345,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000043.jpg 70,1326,224,1373,17 574,834,867,917,17 1593,784,1805,847,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000044.jpg 493,820,704,875,17 1,44,808,277,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000045.jpg 329,185,470,223,17 293,1,504,57,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000046.jpg 512,489,660,531,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000050.jpg 347,380,476,409,17 161,78,662,210,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000052.jpg 294,55,425,84,17 775,1867,894,1903,17 307,797,1395,1080,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000053.jpg 297,434,661,524,17 90,88,734,243,17 268,700,344,722,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000054.jpg 97,161,650,435,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000056.jpg 331,96,478,134,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000057.jpg 1383,625,1680,984,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000058.jpg 732,1301,953,1368,17 962,163,1734,404,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000059.jpg 418,183,504,208,17 129,448,186,501,17 167,114,196,132,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000060.jpg 655,516,738,540,17 132,1,1069,226,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000061.jpg 466,775,562,802,17 428,576,580,617,17 189,195,810,365,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000062.jpg 328,98,423,128,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000063.jpg 91,481,236,552,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000064.jpg 315,505,365,520,17 160,188,451,272,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000065.jpg 221,426,285,444,17 73,56,438,153,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000066.jpg 308,44,421,78,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000067.jpg 33,287,46,327,17 345,274,393,298,17 447,142,500,163,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000068.jpg 147,143,280,217,17 604,89,718,175,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000069.jpg 291,129,376,161,17 276,372,386,406,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000070.jpg 15,30,190,77,17 170,167,194,184,17 162,217,195,226,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000071.jpg 775,513,1347,681,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000072.jpg 624,124,780,173,17 116,408,264,467,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000073.jpg 546,197,1384,449,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000075.jpg 67,20,144,41,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000076.jpg 293,333,361,349,17 155,58,278,94,17 50,1,268,30,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000077.jpg 538,204,840,318,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000078.jpg 432,258,481,272,17 279,48,525,117,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000079.jpg 927,143,988,208,17 675,251,850,310,17 202,188,264,242,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000081.jpg 773,417,1132,526,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000082.jpg 58,109,374,283,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000083.jpg 773,415,1132,526,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000085.jpg 207,370,472,449,17 490,663,534,677,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000086.jpg 592,529,698,592,17 554,247,673,350,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000088.jpg 1323,1396,1753,1509,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000089.jpg 309,74,630,164,17 354,408,410,424,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000090.jpg 245,87,785,233,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000092.jpg 153,6,204,20,17 210,46,251,59,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000093.jpg 81,169,144,187,17 184,123,299,156,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000094.jpg 867,488,920,504,17 634,13,1039,129,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000095.jpg 337,294,404,318,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000096.jpg 477,212,574,251,17 291,15,582,143,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000097.jpg 281,190,315,199,17 122,13,356,77,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000098.jpg 756,387,1034,466,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/vivo000099.jpg 338,167,450,204,17
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000000.jpg 93,38,1184,205,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000001.jpg 209,80,901,178,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000002.jpg 179,5,408,41,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000003.jpg 17,1,326,156,18 521,45,622,183,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000004.jpg 239,5,457,176,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000005.jpg 317,147,548,207,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000006.jpg 386,63,554,138,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000007.jpg 163,6,539,122,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000008.jpg 263,1,456,67,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000009.jpg 116,71,358,153,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000010.jpg 482,93,583,128,18 158,5,313,83,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000011.jpg 100,9,297,48,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000012.jpg 71,1,659,126,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000013.jpg 147,74,457,142,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000014.jpg 161,83,436,140,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000015.jpg 154,126,301,217,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000016.jpg 276,397,495,453,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000017.jpg 418,77,649,161,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000019.jpg 329,124,748,235,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000020.jpg 201,113,387,169,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000022.jpg 522,260,771,317,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000023.jpg 152,212,482,342,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000027.jpg 149,189,409,269,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000028.jpg 133,1,2306,480,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000029.jpg 122,165,450,275,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000030.jpg 176,16,668,282,18 880,897,1097,960,18 626,810,774,895,18 438,746,535,808,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000031.jpg 314,72,478,139,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000032.jpg 976,238,1451,443,18 372,582,507,611,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000033.jpg 146,45,369,169,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000034.jpg 274,280,829,363,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000035.jpg 332,137,751,200,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000036.jpg 70,122,434,184,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000037.jpg 308,170,596,253,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000039.jpg 106,3,479,121,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000040.jpg 260,576,875,794,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000043.jpg 257,103,448,152,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000044.jpg 1,226,521,330,18 319,40,501,90,18 33,383,174,421,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000045.jpg 479,164,750,256,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000046.jpg 70,59,536,123,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000047.jpg 195,109,555,169,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000049.jpg 176,135,789,307,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000052.jpg 119,39,655,340,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000053.jpg 253,1,582,151,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000054.jpg 405,38,1007,126,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000055.jpg 128,1,325,70,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000056.jpg 22,45,597,135,18 253,232,336,251,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000057.jpg 282,195,563,294,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000058.jpg 73,34,516,106,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000060.jpg 267,15,855,106,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000062.jpg 584,928,1553,1210,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000063.jpg 988,212,1105,257,18 316,139,672,217,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000064.jpg 101,1,971,383,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000066.jpg 257,57,622,139,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000067.jpg 109,27,525,111,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000068.jpg 251,318,2686,697,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000069.jpg 421,152,1039,327,18 102,416,240,446,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000070.jpg 297,153,1079,335,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000071.jpg 646,150,1007,299,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000072.jpg 124,55,302,122,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000073.jpg 339,207,618,277,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000074.jpg 174,44,447,134,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000075.jpg 292,86,452,150,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000076.jpg 45,122,657,223,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000077.jpg 324,30,607,194,18 1,314,58,331,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000078.jpg 201,28,856,137,18 864,253,956,271,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000079.jpg 118,117,303,159,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000080.jpg 154,78,609,287,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000081.jpg 61,124,409,234,18 273,304,347,323,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000083.jpg 110,69,1165,355,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000084.jpg 389,68,770,207,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000085.jpg 406,14,613,102,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000086.jpg 261,51,1458,613,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000087.jpg 301,1,911,102,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000088.jpg 47,57,700,349,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000089.jpg 156,18,353,91,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000090.jpg 531,424,2200,680,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000094.jpg 297,51,520,85,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000096.jpg 210,20,463,97,18 519,247,600,279,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000097.jpg 164,27,513,98,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/watsons000099.jpg 595,384,2844,743,18 1767,1630,1974,1673,18 1385,1622,1587,1669,18 1035,1618,1236,1663,18 666,1614,865,1660,18 326,1609,520,1655,18 1,1604,160,1648,18 2726,1629,2890,1675,18
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000000.jpg 122,142,528,251,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000001.jpg 252,194,931,362,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000002.jpg 227,178,497,263,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000003.jpg 456,95,642,185,19 42,243,91,262,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000004.jpg 197,70,262,97,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000006.jpg 1929,945,2773,1207,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000007.jpg 132,33,437,144,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000008.jpg 131,344,196,385,19 501,186,708,280,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000010.jpg 285,496,346,536,19 352,350,504,400,19 140,175,455,322,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000011.jpg 2325,448,3587,724,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000013.jpg 203,186,794,384,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000014.jpg 58,40,147,74,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000015.jpg 543,104,747,165,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000016.jpg 182,35,270,56,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000017.jpg 238,73,355,101,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000018.jpg 346,172,537,235,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000019.jpg 283,102,423,152,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000020.jpg 104,199,284,255,19 360,278,453,297,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000021.jpg 693,341,739,356,19 493,252,555,273,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000022.jpg 390,229,594,263,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000023.jpg 88,38,194,87,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000025.jpg 299,7,521,42,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000026.jpg 160,168,1151,398,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000027.jpg 83,123,666,319,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000028.jpg 311,188,375,216,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000029.jpg 651,109,686,146,19 45,182,341,276,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000031.jpg 407,206,528,234,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000033.jpg 315,29,449,112,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000034.jpg 537,367,763,416,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000035.jpg 53,197,103,215,19 568,198,619,215,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000037.jpg 58,39,290,104,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000038.jpg 380,121,509,148,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000039.jpg 552,13,654,39,19 501,297,646,328,19 176,267,205,278,19 10,305,60,322,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000040.jpg 210,68,302,92,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000041.jpg 32,1,337,85,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000042.jpg 456,311,617,383,19 991,1033,1035,1052,19 763,1026,826,1054,19 226,1026,295,1054,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000043.jpg 240,70,464,174,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000044.jpg 194,66,337,107,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000045.jpg 363,219,396,236,19 311,92,338,104,19 5,246,54,270,19 49,95,102,114,19 115,314,149,332,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000046.jpg 443,161,525,179,19 54,173,146,192,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000047.jpg 348,176,422,195,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000048.jpg 230,90,301,108,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000049.jpg 1032,434,1543,618,19 235,1115,549,1177,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000050.jpg 117,167,418,293,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000053.jpg 284,342,1266,634,19 487,1243,741,1288,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000054.jpg 85,53,839,205,19 496,460,648,496,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000055.jpg 147,21,328,64,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000056.jpg 225,226,711,368,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000057.jpg 142,487,305,555,19 156,59,432,254,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000058.jpg 180,108,320,149,19 234,204,283,218,19 414,196,496,221,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000059.jpg 186,15,252,43,19 23,143,158,180,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000060.jpg 584,187,652,236,19 119,149,344,235,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000061.jpg 517,169,544,190,19 266,73,356,126,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000062.jpg 347,25,605,70,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000063.jpg 125,20,347,177,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000064.jpg 357,65,400,86,19 25,18,131,54,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000065.jpg 241,102,483,220,19 150,294,177,306,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000066.jpg 321,280,401,308,19 89,182,201,248,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000067.jpg 257,215,338,227,19 428,77,470,83,19 128,79,167,84,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000070.jpg 208,97,251,113,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000071.jpg 157,71,277,105,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000072.jpg 1184,494,1280,547,19 353,76,842,292,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000073.jpg 105,201,384,339,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000074.jpg 253,162,338,192,19 124,184,159,201,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000076.jpg 237,191,281,200,19 408,59,511,75,19 7,59,110,75,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000077.jpg 396,100,490,125,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000078.jpg 192,70,305,103,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000079.jpg 280,85,386,103,19 74,213,122,221,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000080.jpg 268,200,332,213,19 93,146,217,185,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000081.jpg 181,141,227,156,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000082.jpg 195,116,277,137,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000083.jpg 497,723,590,747,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000086.jpg 376,193,840,373,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000088.jpg 330,89,382,113,19 128,153,163,176,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000089.jpg 436,36,604,75,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000090.jpg 121,34,188,52,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000092.jpg 139,113,506,173,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000093.jpg 532,304,715,392,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000094.jpg 212,196,445,252,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000095.jpg 217,10,392,38,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000096.jpg 81,5,546,114,19 39,222,256,276,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000097.jpg 139,264,403,305,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000098.jpg 457,27,576,57,19 576,169,606,176,19
+/root/Mobilenet-SSD-Essay/VOCdevkit/VOC2007/JPEGImages/zara000099.jpg 105,47,241,73,19

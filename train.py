@@ -37,6 +37,8 @@ tf.logging.set_verbosity(tf.logging.ERROR)
    如果只是训练了几个Step是不会保存的，Epoch和Step的概念要捋清楚一下。
 '''
 if __name__ == "__main__":
+    os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"  #实现卡号匹配
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     #---------------------------------------------------------------------#
     #   train_gpu   训练用到的GPU
     #               默认为第一张卡、双卡为[0, 1]、三卡为[0, 1, 2]
@@ -66,11 +68,12 @@ if __name__ == "__main__":
     #   网络一般不从0开始训练，至少会使用主干部分的权值，有些论文提到可以不用预训练，主要原因是他们 数据集较大 且 调参能力优秀。
     #   如果一定要训练网络的主干部分，可以了解imagenet数据集，首先训练分类模型，分类模型的 主干部分 和该模型通用，基于此进行训练。
     #----------------------------------------------------------------------------------------------------------------------------#
-    model_path      = 'model_data/essay_mobilenet_ssd_weights.h5'
+    model_path      = 'model_data/logo625mV2_224encoder.h5'
+    #'model_data/logo625mV2_224encoder.h5'
     #------------------------------------------------------#
     #   input_shape     输入的shape大小
     #------------------------------------------------------#
-    input_shape     = [300, 300]
+    input_shape     = [512, 512]
     #------------------------------------------------------#
     #   可用于设定先验框的大小，默认的anchors_size
     #   是根据voc数据集设定的，大多数情况下都是通用的！
@@ -150,7 +153,7 @@ if __name__ == "__main__":
     #                   当使用SGD优化器时建议设置   Init_lr=2e-3
     #   Min_lr          模型的最小学习率，默认为最大学习率的0.01
     #------------------------------------------------------------------#
-    Init_lr             = 2e-3
+    Init_lr             = 6e-4
     Min_lr              = Init_lr * 0.01
     #------------------------------------------------------------------#
     #   optimizer_type  使用到的优化器种类，可选的有adam、sgd
@@ -160,9 +163,9 @@ if __name__ == "__main__":
     #   weight_decay    权值衰减，可防止过拟合
     #                   adam会导致weight_decay错误，使用adam时建议设置为0。
     #------------------------------------------------------------------#
-    optimizer_type      = "sgd"
+    optimizer_type      = "adam"
     momentum            = 0.937
-    weight_decay        = 5e-4
+    weight_decay        = 0
     #------------------------------------------------------------------#
     #   lr_decay_type   使用到的学习率下降方式，可选的有'step'、'cos'
     #------------------------------------------------------------------#
@@ -192,7 +195,7 @@ if __name__ == "__main__":
     #                   keras里开启多线程有些时候速度反而慢了许多
     #                   在IO为瓶颈的时候再开启多线程，即GPU运算速度远大于读取图片的速度。
     #------------------------------------------------------------------#
-    num_workers         = 1
+    num_workers         = 14
 
     #------------------------------------------------------#
     #   train_annotation_path   训练图片路径和标签
@@ -277,7 +280,7 @@ if __name__ == "__main__":
     #------------------------------------------------------#
     if True:
         if Freeze_Train:
-            freeze_layers = 81
+            freeze_layers = 152
             for i in range(freeze_layers): model_body.layers[i].trainable = False
             print('Freeze the first {} layers of total {} layers.'.format(freeze_layers, len(model_body.layers)))
 

@@ -1,0 +1,4 @@
+hotmaxx 190 23 545 96
+hotmaxx 257 416 307 426
+hotmaxx 477 416 525 427
+hotmaxx 29 418 81 429
